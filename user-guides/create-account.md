@@ -3,6 +3,7 @@
 ## Purpose
 
 This guide explains how new users can create an account on the application.
+Follow the steps below to complete the registration process
 
 ## Requirements
 
